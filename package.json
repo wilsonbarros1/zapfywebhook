@@ -1,0 +1,18 @@
+{
+  "name": "zapfywebhook",
+  "version": "1.0.0",
+  "description": "climbfyWebhook",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "youapp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "express-validator": "^6.6.1",
+    "axios": "^0.21.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
